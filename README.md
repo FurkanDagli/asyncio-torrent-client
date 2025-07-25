@@ -42,7 +42,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 **1. Repository'yi Klonlayın:**
 ```bash
 git clone [(https://github.com/FurkanDagli/asyncio-torrent-client)](https://github.com/FurkanDagli/asyncio-torrent-client)
-cd parcacik
+cd asyncio-torrent-client
 ```
 
 **2. Sanal Ortamı Oluşturun ve Aktifleştirin:**
