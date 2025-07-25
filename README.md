@@ -41,7 +41,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 **1. Repository'yi Klonlayın:**
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/parcacik.git](https://github.com/KULLANICI_ADIN/parcacik.git)
+git clone [(https://github.com/FurkanDagli/asyncio-torrent-client)](https://github.com/FurkanDagli/asyncio-torrent-client)
 cd parcacik
 ```
 
