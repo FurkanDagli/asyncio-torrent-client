@@ -41,7 +41,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 **1. Repository'yi Klonlayın:**
 ```bash
-git clone [(https://github.com/FurkanDagli/asyncio-torrent-client)](https://github.com/FurkanDagli/asyncio-torrent-client)
+git clone https://github.com/FurkanDagli/asyncio-torrent-client.git
 cd asyncio-torrent-client
 ```
 
